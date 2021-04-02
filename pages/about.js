@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>CRA on Next.js - About</title>
+        <title>Next.js - About</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -16,7 +16,7 @@ export default function About() {
 
         <p className={styles.description}>
           It doesn't get much{' '}
-          <code className={styles.code}>THAN THIS!</code>
+          <code className={styles.code}>BETTER THAN THIS!</code>
         </p>
 
        </main>
